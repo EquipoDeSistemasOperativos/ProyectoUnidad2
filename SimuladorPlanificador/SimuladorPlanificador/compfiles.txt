@@ -1,0 +1,3 @@
+./MultiplesColaDePrioridad/Proceso.java
+./MultiplesColaDePrioridad/Planificador.java
+./MultiplesColaDePrioridad/Main.java
